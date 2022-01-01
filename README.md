@@ -12,12 +12,12 @@
 ### Valid
     function f(x)= x^3
 
-    ![valid1.png](./Images/valid1.png)
+    ![valid1(/Images/valid1.png)
 
 
     function f(x)= 3/x + x
 
-    ![valid3.png](./Images/valid3.png)
+    ![valid3](/Images/valid3.png)
 
 
 ### Invalid
@@ -25,13 +25,13 @@
 #### function error
     function f(x) = x++x
 
-    ![invalid1](./Images/invalid1.png)
+    ![invalid1](/Images/invalid1.png)
 
 #### x input error
     x minimum input = x
     x maximum input = err
 
-    ![invalid4](./Images/invalid4.png)
+    ![invalid4](/Images/invalid4.png)
 
 
 
